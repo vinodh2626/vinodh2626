@@ -59,20 +59,8 @@ Here are a few projects I’m proud of. (Replace with your own)
 
 ## 📫 How to Reach Me
 
-- Email: (your.email@example.com)  
-- LinkedIn: (your LinkedIn profile)  
-- Twitter: (your Twitter or X handle)  
-- Other: (any other social or contact link)
-
----
-
-## 💬 Fun / Personal
-
-(Optional section to share a bit about you)
-
-- 🎮 I enjoy gaming / reading / cooking / traveling  
-- 📚 Currently learning … (e.g. “GraphQL, Rust”)  
-- 🧩 Fun fact: …  
+- Email: vinodhv676@gmail.com
+- LinkedIn: https://www.linkedin.com/in/karjala-vinodh-0923891bb/ 
 
 ---
 
