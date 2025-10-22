@@ -10,11 +10,10 @@
 
 - **Name:** Vinodh  
 - **GitHub Username:** vinodh2626  
-- **Current Role / Title:** (e.g. Software Developer, Student, etc.)  
-- **Location:** (City, State / Region, Country)  
-- **Email:** (your email, if you want to make it public)  
-- **Website / Blog:** (your personal portfolio or blog link)  
-- **Pronouns:** (optional)  
+- **Current Role / Title:** ui/ux designer
+- **Location:** Hyderabad 
+- **Email:** vinodhv676@gmail.com  
+- **Website / Blog:** https://vinodh2626.github.io/    
 
 I’m passionate about building scalable software, learning new technologies, and collaborating on open source.  
 
